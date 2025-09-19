@@ -1,4 +1,5 @@
 #[allow(unused_imports)]
+#[allow(unconditional_recursion)]
 use std::io::{self, Write};
 
 fn main() {
